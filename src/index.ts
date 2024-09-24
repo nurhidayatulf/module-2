@@ -1,8 +1,8 @@
-import { calculateRectangleArea } from './day13/rectangle';
-import { calculateDiameter, calculateCircumference, calculateCircleArea } from './day13/circle';
-import { findThirdAngle } from './day13/triangle';
-import { getDateDifference } from './day13/dateDifference';
-import { getInitials } from './day13/initials';
+import { calculateRectangleArea } from './day1/rectangle';
+import { calculateDiameter, calculateCircumference, calculateCircleArea } from './day1/circle';
+import { findThirdAngle } from './day1/triangle';
+import { getDateDifference } from './day1/dateDifference';
+import { getInitials } from './day1/initials';
 
 // Question 1
 const rectangleArea = calculateRectangleArea(10, 5);
