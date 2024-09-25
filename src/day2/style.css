@@ -27,12 +27,14 @@ nav {
 .profile-pict {
     display: flex;
     align-items: center;
+    margin-left: 35px;
 }
 
 .navbar {
     display: flex;
     margin-top: 24px;
     margin-bottom: 24px;
+
 }
 
 .navbar a {
@@ -42,6 +44,11 @@ nav {
     color: #fff;
     font-weight: 700;
 }
+
+nav ul li a:hover {
+    font-weight: bold;
+    color: #000;
+  }
 
 #menu-icon {
     font-size: 24px;
@@ -74,6 +81,10 @@ input[type="search"] {
     right: 10px;
     font-size: 20px;
     color: #000
+}
+
+.cart-symbol {
+    margin-right: 111px;
 }
 
 main .main-content {
@@ -144,12 +155,62 @@ main .mid-content p {
 }
 
 main .bottom-content {
-    margin: 58px 0 78px 0;
+    position: absolute;
+    width: 1440px;
+    height: 763px;
+    top: 899px;
+    left: 0;
+    background-color: #c780fa;
+    border: 1px solid;
+    border-color: #000000;
 }
+
 main .bottom-content h1 {
-    text-align: center;
-    font-size: 54px;
+    position: absolute;
+    top: 50px;
+    left: 605px;
+    font-family: "Poppins", Helvetica;
     font-weight: 700;
-    line-height: 81px;
-    color: #000;
+    color: #000000;
+    font-size: 54px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+main .bottom-content .review-content {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: 211px 58px 120px 58px;
+}
+
+main .bottom-content .review-content .review-box {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #fff;
+    width: 400px;
+    height: 432px;
+    padding-top: 20px;
+    border-radius: 20px;
+    border: 3px solid #000;
+
+}
+
+main .bottom-content .review-content .review-box p {
+    font-size: 16px;
+    font-weight: 500;
+    font-style: italic;
+    text-align: center;
+    line-height: 24px;
+    padding: 32px;
+}
+
+main .bottom-content .review-content .review-box h4 {
+    font-size: 25px;
+    font-weight: 400;
+    text-align: center;
+    line-height: 38px;
+    margin-bottom: 52px;
 }
