@@ -1,0 +1,155 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: "Poppins", sans-serif;
+    text-decoration: none;
+    scroll-behavior: smooth;
+    list-style: none;
+}
+
+section {
+    padding: 50px 10%;
+}
+
+nav {
+    width: 100%;
+    top: 0;
+    right: 0;
+    z-index: 1000;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: #BEADFA;
+    border: 1px solid;
+    border-color: #000;
+}
+
+.profile-pict {
+    display: flex;
+    align-items: center;
+}
+
+.navbar {
+    display: flex;
+    margin-top: 24px;
+    margin-bottom: 24px;
+}
+
+.navbar a {
+    font-size: 20px;
+    padding: 12px 20px;
+    text-decoration: none;
+    color: #fff;
+    font-weight: 700;
+}
+
+#menu-icon {
+    font-size: 24px;
+    cursor: pointer;
+    z-index: 1001;
+    display: none;
+}
+
+.search-bar {
+    background-color: #f2f2f2;
+    padding: 10px;
+    border-radius: 20px;
+    margin-left: 10px;
+    position: relative;
+}
+
+input[type="search"] {
+    width: 100%;
+    border: none;
+    outline: none;
+    font-size: 16px;
+    padding: 5px;
+    border-radius: 3px;
+    background-color: transparent;
+}
+
+.bx-search {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    font-size: 20px;
+    color: #000
+}
+
+main .main-content {
+    position: absolute;
+    width: 1440px;
+    height: 563px;
+    top: 78px;
+    left: 0;
+    background-color: #8e8ffa;
+    border: 1px solid;
+    border-color: #000000;
+}
+
+main #about-us > * {
+    padding: 0 438px;
+    text-align: center;
+}
+
+main .main-content h1 {
+    margin-top: 87px;
+    color: #000;
+    text-align: center;
+    font-size: 54px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+
+main .main-content h2 {
+    color: #FFF;
+    text-align: center;
+    font-size: 24px;
+    font-style: italic;
+    font-weight: 600;
+    line-height: normal;
+}
+
+main .main-content p {
+    color: #000;
+    text-align: center;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+main .mid-content {
+    position: absolute;
+    width: 1440px;
+    height: 257px;
+    top: 642px;
+    left: 0;
+    background-color: #000000;
+}
+
+main .mid-content p {
+    position: absolute;
+    width: 545px;
+    top: 84px;
+    left: 455px;
+    font-weight: 500;
+    font-style: italic;
+    color: #ffffff;
+    font-size: 54px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+main .bottom-content {
+    margin: 58px 0 78px 0;
+}
+main .bottom-content h1 {
+    text-align: center;
+    font-size: 54px;
+    font-weight: 700;
+    line-height: 81px;
+    color: #000;
+}
