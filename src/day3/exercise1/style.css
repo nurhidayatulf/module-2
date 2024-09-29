@@ -1,0 +1,579 @@
+.image-icon {
+    position: absolute;
+    top: 178px;
+    left: 102px;
+    width: 1236px;
+    height: 689px;
+    object-fit: cover;
+}
+.prada {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+.logo {
+    position: absolute;
+    top: 71px;
+    left: 637px;
+    width: 166px;
+    height: 51px;
+    font-size: 48px;
+    font-family: 'Modern No 20';
+}
+.men {
+    position: absolute;
+    top: 0px;
+    left: 123px;
+}
+.children {
+    position: absolute;
+    top: 0px;
+    left: 245px;
+}
+.sale {
+    position: absolute;
+    top: 0px;
+    left: 366px;
+}
+.new-in {
+    position: absolute;
+    top: 0px;
+    left: 487px;
+}
+.home-collection {
+    position: absolute;
+    top: 0px;
+    left: 609px;
+}
+.navbar {
+    position: absolute;
+    top: 141px;
+    left: 364px;
+    width: 727px;
+    height: 19px;
+    font-size: 18px;
+    font-family: 'Modern No 20';
+}
+.new-arrivals {
+    position: absolute;
+    top: 0px;
+    left: 468px;
+    font-size: 36px;
+    font-weight: 600;
+}
+.product2-child {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 365px;
+    height: 496px;
+    object-fit: cover;
+}
+.re-nylon-bucket-hat {
+    position: absolute;
+    top: 532px;
+    left: 38px;
+    font-weight: 600;
+}
+.colors {
+    position: absolute;
+    top: 512px;
+    left: 40px;
+    font-size: 12px;
+    font-weight: 600;
+    color: #848484;
+    text-align: left;
+}
+.product2 {
+    position: absolute;
+    top: 123px;
+    left: 415px;
+    width: 365px;
+    height: 551px;
+}
+.product1-child {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #c4c4c4;
+    width: 365px;
+    height: 496px;
+}
+.terry-tote-bag {
+    position: absolute;
+    top: 532px;
+    left: 40px;
+    font-weight: 600;
+}
+.product1 {
+    position: absolute;
+    top: 123px;
+    left: 0px;
+    width: 365px;
+    height: 551px;
+}
+.prada-symbole-sunglasses {
+    position: absolute;
+    top: 532px;
+    left: 39px;
+    font-weight: 600;
+}
+.color {
+    position: absolute;
+    top: 512px;
+    left: 39px;
+    font-size: 12px;
+    font-weight: 600;
+    color: #848484;
+    text-align: left;
+}
+.product3 {
+    position: absolute;
+    top: 123px;
+    left: 831px;
+    width: 365px;
+    height: 551px;
+}
+.new-arrivals2 {
+    position: absolute;
+    top: 1142px;
+    left: 122px;
+    width: 1196px;
+    height: 674px;
+}
+.new-arrivals-for {
+    margin: 0;
+}
+.new-arrivals-for-container {
+    position: absolute;
+    top: 0px;
+    left: 388px;
+    font-size: 36px;
+    font-weight: 600;
+}
+.product31 {
+    position: absolute;
+    top: 122px;
+    left: 831px;
+    width: 365px;
+    height: 551px;
+}
+.product21 {
+    position: absolute;
+    top: 122px;
+    left: 415px;
+    width: 365px;
+    height: 551px;
+}
+.product11 {
+    position: absolute;
+    top: 122px;
+    left: 0px;
+    width: 365px;
+    height: 551px;
+}
+.color1 {
+    position: absolute;
+    top: 634px;
+    left: 870px;
+    font-size: 12px;
+    font-weight: 600;
+    color: #848484;
+    text-align: left;
+}
+.new-arrivals1 {
+    position: absolute;
+    top: 2618px;
+    left: 122px;
+    width: 1196px;
+    height: 673px;
+}
+.mask-group-icon4 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1236px;
+    height: 581px;
+    object-fit: cover;
+}
+.la-pradina {
+    position: absolute;
+    top: 441px;
+    left: 981px;
+    letter-spacing: 0.35em;
+    line-height: 0%;
+    font-weight: 600;
+}
+.cta-child {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #fff;
+    width: 224px;
+    height: 57px;
+}
+.everything-for-her {
+    position: absolute;
+    top: 17px;
+    left: 40px;
+    font-weight: 600;
+}
+.cta {
+    position: absolute;
+    top: 483px;
+    left: 971px;
+    width: 224px;
+    height: 57px;
+    font-size: 14px;
+    color: #000;
+}
+.text-image {
+    position: absolute;
+    top: 3443px;
+    left: 102px;
+    width: 1236px;
+    height: 581px;
+    font-size: 24px;
+    color: #fff;
+    font-family: 'Segoe UI';
+}
+.footer-child {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #fff;
+    width: 1440px;
+    height: 321px;
+}
+.fondazione-prada {
+    position: absolute;
+    top: 31px;
+    left: 0px;
+}
+.prada-group {
+    position: absolute;
+    top: 62px;
+    left: 0px;
+}
+.luna-rossa {
+    position: absolute;
+    top: 93px;
+    left: 0px;
+}
+.sustainability {
+    position: absolute;
+    top: 124px;
+    left: 0px;
+}
+.work-with-us {
+    position: absolute;
+    top: 155px;
+    left: 0px;
+}
+.company {
+    position: absolute;
+    top: 43px;
+    left: 120px;
+    width: 118px;
+    height: 174px;
+}
+.legal-notice {
+    position: absolute;
+    top: 31px;
+    left: 2px;
+}
+.privacy-policy {
+    position: absolute;
+    top: 61px;
+    left: 2px;
+}
+.cookie-policy {
+    position: absolute;
+    top: 92px;
+    left: 2px;
+}
+.sitemap {
+    position: absolute;
+    top: 118px;
+    left: 2px;
+}
+.legal-terms-and {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    font-size: 18px;
+    text-align: center;
+}
+.terms {
+    position: absolute;
+    top: 43px;
+    left: 363px;
+    width: 285px;
+    height: 137px;
+}
+.store-locator1 {
+    position: absolute;
+    top: 0px;
+    left: 18px;
+}
+.fluentlocation-12-filled-icon {
+    position: absolute;
+    top: 1px;
+    left: 0px;
+    width: 15px;
+    height: 15px;
+    overflow: hidden;
+}
+.store-locator {
+    position: absolute;
+    top: 261px;
+    left: 120px;
+    width: 106px;
+    height: 19px;
+}
+.follow-us1 {
+    position: absolute;
+    top: 0px;
+    left: 3px;
+}
+.ant-designtwitter-circle-fill-icon {
+    position: absolute;
+    top: 38px;
+    left: 0px;
+    width: 20px;
+    height: 20px;
+    overflow: hidden;
+}
+.akar-iconsfacebook-fill {
+    position: absolute;
+    top: 39px;
+    left: 70px;
+    width: 20px;
+    height: 20px;
+    overflow: hidden;
+}
+.entypo-socialinstagram-with-c-icon {
+    position: absolute;
+    top: 39px;
+    left: 35px;
+    width: 20px;
+    height: 20px;
+    overflow: hidden;
+}
+.entypo-socialyoutube-with-cir-icon {
+    position: absolute;
+    top: 39px;
+    left: 105px;
+    width: 20px;
+    height: 20px;
+    overflow: hidden;
+}
+.follow-us {
+    position: absolute;
+    top: 43px;
+    left: 973px;
+    width: 125px;
+    height: 59px;
+    text-align: center;
+    font-size: 18px;
+}
+.footer {
+    position: absolute;
+    top: 4051px;
+    left: 0px;
+    width: 1440px;
+    height: 321px;
+    text-align: left;
+}
+.summer-20211 {
+    position: absolute;
+    top: 0px;
+    left: 109px;
+    font-family: 'Modern No 20';
+}
+.explore-sports-inspired-ready- {
+    position: absolute;
+    top: 63px;
+    left: 0px;
+    font-size: 18px;
+    display: inline-block;
+    width: 471px;
+}
+.cta-item {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border: 1px solid #000;
+    box-sizing: border-box;
+    width: 224px;
+    height: 57px;
+}
+.new-in-for {
+    position: absolute;
+    top: 19px;
+    left: 56px;
+    font-weight: 600;
+}
+.cta-inner {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 224px;
+    height: 57px;
+}
+.cta1 {
+    position: absolute;
+    top: 145px;
+    left: 124px;
+    width: 224px;
+    height: 57px;
+    font-size: 14px;
+}
+.summer-2021 {
+    position: absolute;
+    top: 893px;
+    left: 484px;
+    width: 471px;
+    height: 202px;
+    font-size: 36px;
+}
+.mask-group-icon5 {
+    position: absolute;
+    top: 0px;
+    left: 435px;
+    width: 781px;
+    height: 656px;
+    object-fit: cover;
+}
+.the-pre-fall-2021 {
+    position: absolute;
+    top: 34px;
+    left: 20px;
+    display: inline-block;
+    width: 240px;
+}
+.light-layers1 {
+    position: absolute;
+    top: 0px;
+    left: 20px;
+    font-size: 24px;
+    font-weight: 600;
+}
+.cta-child1 {
+    position: absolute;
+    top: 0px;
+    left: 19px;
+    border: 1px solid #000;
+    box-sizing: border-box;
+    width: 224px;
+    height: 57px;
+}
+.shop-now {
+    position: absolute;
+    top: 18px;
+    left: 93px;
+    font-weight: 600;
+}
+.cta-child2 {
+    position: absolute;
+    top: 1px;
+    left: 0px;
+    width: 224px;
+    height: 57px;
+}
+.cta2 {
+    position: absolute;
+    top: 103px;
+    left: 0px;
+    width: 243px;
+    height: 58px;
+    text-align: center;
+    font-size: 14px;
+}
+.light-layers {
+    position: absolute;
+    top: 496px;
+    left: 0px;
+    width: 260px;
+    height: 161px;
+}
+.text-image1 {
+    position: absolute;
+    top: 1884px;
+    left: 102px;
+    width: 1216px;
+    height: 657px;
+    text-align: left;
+    font-size: 12px;
+}
+.shop-sale-child {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #c4c4c4;
+    width: 1440px;
+    height: 50px;
+    opacity: 0.5;
+}
+.shop-the-sale {
+    position: absolute;
+    top: 16px;
+    left: 624px;
+    display: inline-block;
+    width: 192px;
+    height: 17px;
+}
+.sign-in {
+    position: absolute;
+    top: 17px;
+    left: 1093px;
+}
+.bag {
+    position: absolute;
+    top: 17px;
+    left: 1272px;
+}
+.ant-designheart-outlined-icon {
+    position: absolute;
+    top: 19px;
+    left: 1217px;
+    width: 15px;
+    height: 15px;
+    overflow: hidden;
+}
+.iconoirshopping-bag {
+    position: absolute;
+    top: 18px;
+    left: 1253px;
+    width: 15px;
+    height: 15px;
+    overflow: hidden;
+}
+.shop-sale-item {
+    position: absolute;
+    top: 33.5px;
+    left: 623.5px;
+    border-top: 1px solid #000;
+    box-sizing: border-box;
+    width: 193px;
+    height: 1px;
+}
+.shop-sale {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1440px;
+    height: 50px;
+}
+.exercise-1 {
+    width: 100%;
+    position: relative;
+    background-color: #f4f5f7;
+    height: 4372px;
+    overflow: hidden;
+    text-align: center;
+    font-size: 14px;
+    color: #000;
+    font-family: 'Open Sans';
+}
+
